@@ -1,1 +1,1 @@
-var spamer = require 'lib/write-file.js'
+var spamer = require ('./lib/write-file.js');
